@@ -59,7 +59,7 @@
 
 ---
 
-<img align="left" alt="iTarunGM's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itarungm&show_icons=true&hide_border=true" />
+<img align="left" alt="iTarunGM's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itarungm&show_icons=true&hide_border=true&theme=onedark" />
 
 [website]: https://itarungm.blogspot.com/
 [twitter]: https://twitter.com/iTarunGM
