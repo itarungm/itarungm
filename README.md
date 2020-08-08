@@ -43,6 +43,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [King of the Sky | Eagle Attacks Wolf | Eagle vs Fox](https://www.youtube.com/watch?v=3fa_gBkVayo)
+- [Lion vs Hyena - कोन जीतेगा | 1 Lion vs 20 Hyenas - Who Would Win?](https://www.youtube.com/watch?v=0pEholedyAg)
+- [Lion vs Gorilla - कोन जीतेगा - Gorilla vs Lion - Who would Win?](https://www.youtube.com/watch?v=di1fuHOF27Q)
+- [What to Do If You are Buried Alive | कैसे निकले आगर आपको जिंदा दफना दिया जाए](https://www.youtube.com/watch?v=3X9hKkQChwU)
+- [How to Survive a Lion Attack | Do This If You are Attacked by a Lion in Hindi](https://www.youtube.com/watch?v=hMUc0Ct4Fps)
 <!-- YOUTUBE:END -->
 
 ### 📕 Latest Blog Posts
