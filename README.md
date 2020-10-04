@@ -41,11 +41,11 @@
 ---
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [👑 Lion vs Crocodile vs Hippo - Who Would Win? Who is the King in River?](https://www.youtube.com/watch?v=m1x9c86M_dY)
 - [🙏 Thank You for 25 Thousand Subscribers! | Next 30 Thousand Goal.](https://www.youtube.com/watch?v=Mvz4dy9zzW8)
 - [King of the Sky | Eagle Attacks Wolf | Eagle vs Fox](https://www.youtube.com/watch?v=3fa_gBkVayo)
 - [Lion vs Hyena - कोन जीतेगा | 1 Lion vs 20 Hyenas - Who Would Win?](https://www.youtube.com/watch?v=0pEholedyAg)
 - [Lion vs Gorilla - कोन जीतेगा - Gorilla vs Lion - Who would Win?](https://www.youtube.com/watch?v=di1fuHOF27Q)
-- [What to Do If You are Buried Alive | कैसे निकले आगर आपको जिंदा दफना दिया जाए](https://www.youtube.com/watch?v=3X9hKkQChwU)
 <!-- YOUTUBE:END -->
 
 ### 📕 Latest Blog Posts
