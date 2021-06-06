@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Something Cool.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to explore new Designs and Tech.
 
 ### Connect with me:
