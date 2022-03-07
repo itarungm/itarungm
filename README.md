@@ -63,6 +63,6 @@
 
 [website]: https://itarungm.blogspot.com/
 [twitter]: https://twitter.com/iTarunGM
-[youtube]: https://youtube.com/BhramMan
+<!-- [youtube]: https://youtube.com/BhramMan -->
 [instagram]: https://instagram.com/iTarunGM
 [linkedin]: https://linkedin.com/in/iTarunGM
