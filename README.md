@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Something Cool.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2021 Goals: Want to learn everything.
+- 🥅 2022 Goals: Want to learn everything.
 - ⚡ Fun fact: I love to explore new Designs and Tech.
 
 ### Connect with me:
