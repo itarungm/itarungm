@@ -1,7 +1,7 @@
 ### Hi there, I'm Tarun - aka [iTarunGM](http://www.linkedin.com/in/itarungm) 👋
 A Full Stack Web developer🎯 and designer🌈 from India.
 
-- 👨‍💻 Full Stack MEAN and MERN Developer ( Mainly in Angular ) 
+- 👨‍💻 Full Stack ME**A**N and MERN Developer ( Mainly in Angular ) 
 - 🔭 I’m currently working on Something Cool.
 - 📚 What do I believe? Jack of all, Master of some.
 - 📫 How to reach me: [@iTarunGM](http://www.linkedin.com/in/itarungm)
