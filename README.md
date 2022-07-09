@@ -23,7 +23,7 @@ A Full Stack Web developer🎯 and designer🌈 from India.
 ![Tarun's github stats](https://github-readme-stats.vercel.app/api?username=itarungm&theme=tokyonight&show_icons=true&hide=["issues"])
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itarungm&theme=tokyonight&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=itarungm)
+![](https://komarev.com/ghpvc/?username=itarungm) ( From 9th July 2022 ) 
 
 <h3> 🤝🏻 Connect with Me </h3>
 
